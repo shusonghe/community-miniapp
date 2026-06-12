@@ -11,6 +11,20 @@
 
 ---
 
+## 📸 预览
+
+| 首页 | 社区动态 | 二手闲置 |
+|------|---------|----------|
+| ![首页](static/screenshots/home.png) | ![社区动态](static/screenshots/community.png) | ![二手闲置](static/screenshots/secondhand.png) |
+
+| 组团 | 公告 | 个人中心 |
+|------|------|----------|
+| ![组团](static/screenshots/group.png) | ![公告](static/screenshots/notice.png) | ![个人中心](static/screenshots/profile.png) |
+
+> 💡 截图占位，请用微信开发者工具或真机截图替换 `static/screenshots/` 目录下的图片。详见 [截图说明](static/screenshots/README.md)。
+
+---
+
 ## 📱 功能模块
 
 | 模块 | 功能描述 |
@@ -162,6 +176,12 @@ npm run dev:mp-weixin
 | Vuex | 3.x | 状态管理 |
 | 图鸟 UI (TuniaoUI) | - | 小程序 UI 组件库 |
 | Supabase | - | 开源 BaaS 平台 |
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shusonghe/community-miniapp&type=Date)](https://star-history.com/#shusonghe/community-miniapp&Date)
 
 ---
 

@@ -13,15 +13,27 @@
 
 ## 📸 预览
 
-| 首页 | 社区动态 | 二手闲置 |
-|------|---------|----------|
-| ![首页](static/screenshots/home.png) | ![社区动态](static/screenshots/community.png) | ![二手闲置](static/screenshots/secondhand.png) |
+<div align="center">
 
-| 组团 | 公告 | 个人中心 |
-|------|------|----------|
-| ![组团](static/screenshots/group.png) | ![公告](static/screenshots/notice.png) | ![个人中心](static/screenshots/profile.png) |
+| 首页 | 社区动态 | 闲置 |
+|------|---------|------|
+| ![首页](static/screenshots/首页.jpg) | ![社区动态](static/screenshots/社区.jpg) | ![闲置](static/screenshots/闲置.jpg) |
 
-> 💡 截图占位，请用微信开发者工具或真机截图替换 `static/screenshots/` 目录下的图片。详见 [截图说明](static/screenshots/README.md)。
+| 组团 | 发起组团 | 登陆 |
+|------|---------|------|
+| ![组团](static/screenshots/组团.jpg) | ![发起组团](static/screenshots/发起组团.jpg) | ![登陆](static/screenshots/登陆.jpg) |
+
+| 我的 | 我的闲置 | 我的组团 |
+|------|---------|---------|
+| ![我的](static/screenshots/我的.jpg) | ![我的闲置](static/screenshots/我的闲置.jpg) | ![我的组团](static/screenshots/我的组团.jpg) |
+
+</div>
+
+### 🎬 操作演示
+
+<video src="static/screenshots/视频截屏.mp4" controls width="320"></video>
+
+> 💡 点击视频查看完整操作流程
 
 ---
 

@@ -1,0 +1,193 @@
+{
+  "easycom": {
+    "^tn-(.*)": "@/tuniao-ui/components/tn-$1/tn-$1.vue"
+  },
+  "pages": [
+    {
+      "path": "pages/splash/splash",
+      "style": {
+        "navigationBarTitleText": "珈邻",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "珈邻"
+      }
+    },
+    {
+      "path": "pages/group/group",
+      "style": {
+        "navigationBarTitleText": "组团"
+      }
+    },
+    {
+      "path": "pages/community/community",
+      "style": {
+        "navigationBarTitleText": "社区动态"
+      }
+    },
+    {
+      "path": "pages/secondhand/secondhand",
+      "style": {
+        "navigationBarTitleText": "闲置"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/community/publish",
+      "style": {
+        "navigationBarTitleText": "发布动态"
+      }
+    },
+    {
+      "path": "pages/secondhand/publish",
+      "style": {
+        "navigationBarTitleText": "发布闲置"
+      }
+    },
+    {
+      "path": "pages/secondhand/detail",
+      "style": {
+        "navigationBarTitleText": "闲置详情"
+      }
+    },
+    {
+      "path": "pages/group/travel",
+      "style": {
+        "navigationBarTitleText": "组团旅游"
+      }
+    },
+    {
+      "path": "pages/group/travel-detail",
+      "style": {
+        "navigationBarTitleText": "旅游详情"
+      }
+    },
+    {
+      "path": "pages/group/publish",
+      "style": {
+        "navigationBarTitleText": "发起组团"
+      }
+    },
+    {
+      "path": "pages/group/detail",
+      "style": {
+        "navigationBarTitleText": "组团详情"
+      }
+    },
+    {
+      "path": "pages/group/nearby",
+      "style": {
+        "navigationBarTitleText": "周边组团"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/login/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/login/reset",
+      "style": {
+        "navigationBarTitleText": "重置密码"
+      }
+    },
+    {
+      "path": "pages/login/agreement",
+      "style": {
+        "navigationBarTitleText": "协议"
+      }
+    },
+    {
+      "path": "pages/profile/my-posts",
+      "style": {
+        "navigationBarTitleText": "我的动态"
+      }
+    },
+    {
+      "path": "pages/profile/my-goods",
+      "style": {
+        "navigationBarTitleText": "我的闲置"
+      }
+    },
+    {
+      "path": "pages/profile/my-groups",
+      "style": {
+        "navigationBarTitleText": "我的组团"
+      }
+    },
+    {
+      "path": "pages/profile/edit",
+      "style": {
+        "navigationBarTitleText": "编辑资料"
+      }
+    },
+    {
+      "path": "pages/notice/notice",
+      "style": {
+        "navigationBarTitleText": "公告"
+      }
+    },
+    {
+      "path": "pages/notice/detail",
+      "style": {
+        "navigationBarTitleText": "公告详情"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "珈邻",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#999999",
+    "selectedColor": "#3B7FFF",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/secondhand/secondhand",
+        "text": "闲置"
+      },
+      {
+        "pagePath": "pages/community/community",
+        "text": "社区"
+      },
+      {
+        "pagePath": "pages/group/group",
+        "text": "组团"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/notice/notice",
+        "text": "公告"
+      }
+    ]
+  },
+  "uniIdRouter": {}
+}

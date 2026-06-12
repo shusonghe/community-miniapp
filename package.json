@@ -1,0 +1,26 @@
+{
+    "id": "jialin-community",
+    "name": "珈誉邻里",
+    "displayName": "珈誉邻里-小区服务小程序",
+    "version": "1.1.2",
+    "description": "个人用于查看珈誉府小区的公告通知和邻里活动信息，方便了解小区动态和参与社区活动。",
+    "keywords": [
+        "珈誉",
+        "珈誉玖玺"
+    ],
+    "dcloudext": {
+        "type": "pagetemplate-vue",
+        "sale": {
+            "regular": {
+                "price": "0.00"
+            },
+            "sourcecode": {
+                "price": "0.00"
+            }
+        }
+    },
+    "uni_modules": {
+        "dependencies": [],
+        "encrypt": []
+    }
+}

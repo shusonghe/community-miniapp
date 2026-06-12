@@ -337,11 +337,11 @@ HBuilderX → 运行 → 运行到小程序模拟器 → 微信开发者工具
 - 💡 有新功能建议？参与 [Discussion](https://github.com/shusonghe/community-miniapp/discussions)
 - 🔧 想贡献代码？Fork → 修改 → Pull Request
 
-### 贡献者
+### 作者
 
-<a href="https://github.com/shusonghe/community-miniapp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shusonghe/community-miniapp" />
-</a>
+**[@shusonghe](https://github.com/shusonghe)** — 全栈开发 & 项目维护
+
+<a href="https://github.com/shusonghe"><img src="https://avatars.githubusercontent.com/u/38555853?v=4" width="80" style="border-radius:50%"></a>
 
 ---
 
